@@ -6,6 +6,12 @@
   "style": "vivid",
   "layout": {
     "instanceid": "4C0C1-A5F4-E2",
+    "container": {
+      "__WM_SUSPECT_KEY__": 548443917,
+      "__WM_XPATH_ENTRY_KEY__": 548490575,
+      "sizcache09048409173722644": 2194,
+      "sizset": 56
+    },
     "type": "columnar",
     "columns": [
       {
@@ -109,27 +115,6 @@
               {
                 "elements": [
                   {
-                    "minHeight": 128,
-                    "maxHeight": 2048,
-                    "minWidth": 128,
-                    "maxWidth": 2048,
-                    "height": 292,
-                    "defaultWidth": 512,
-                    "widgetid": "5aaaac3aac87db1d98826862"
-                  }
-                ],
-                "width": 100,
-                "stretchable": false,
-                "pxlWidth": 1388,
-                "index": 0
-              }
-            ]
-          },
-          {
-            "subcells": [
-              {
-                "elements": [
-                  {
                     "minHeight": 96,
                     "maxHeight": 2048,
                     "minWidth": 128,
@@ -139,10 +124,27 @@
                     "widgetid": "5aaaac3aac87db1d9882685d"
                   }
                 ],
-                "width": 100,
+                "width": 50,
                 "stretchable": false,
-                "pxlWidth": 2079,
+                "pxlWidth": 1040,
                 "index": 0
+              },
+              {
+                "elements": [
+                  {
+                    "minHeight": 128,
+                    "maxHeight": 2048,
+                    "minWidth": 128,
+                    "maxWidth": 2048,
+                    "height": "324px",
+                    "defaultWidth": 512,
+                    "widgetid": "5aaaac3aac87db1d98826862"
+                  }
+                ],
+                "width": 50,
+                "stretchable": false,
+                "pxlWidth": 1040,
+                "index": 1
               }
             ]
           }
@@ -150,13 +152,7 @@
         "pxlWidth": 2079,
         "index": 0
       }
-    ],
-    "container": {
-      "__WM_SUSPECT_KEY__": 548143386,
-      "__WM_XPATH_ENTRY_KEY__": 548152032,
-      "sizcache09048409173722644": 577,
-      "sizset": 52
-    }
+    ]
   },
   "original": null,
   "datasource": {
