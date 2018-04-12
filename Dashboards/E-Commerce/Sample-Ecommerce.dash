@@ -30,6 +30,12 @@
   },
   "layout": {
     "instanceid": "06A04-747E-74",
+    "container": {
+      "__WM_SUSPECT_KEY__": 548390247,
+      "__WM_XPATH_ENTRY_KEY__": 548432969,
+      "sizcache09048409173722644": 1934,
+      "sizset": 98
+    },
     "type": "columnar",
     "columns": [
       {
@@ -163,15 +169,11 @@
                     "height": "384px"
                   }
                 ],
-                "width": 100,
+                "width": 50,
                 "stretchable": false,
-                "pxlWidth": 609,
+                "pxlWidth": 457,
                 "index": 0
-              }
-            ]
-          },
-          {
-            "subcells": [
+              },
               {
                 "elements": [
                   {
@@ -184,10 +186,10 @@
                     "height": "384px"
                   }
                 ],
-                "width": 100,
+                "width": 50,
                 "stretchable": false,
-                "pxlWidth": 915,
-                "index": 0
+                "pxlWidth": 457,
+                "index": 1
               }
             ]
           }
@@ -242,13 +244,7 @@
           }
         ]
       }
-    ],
-    "container": {
-      "sizcache09048409173722644": 418,
-      "sizset": 94,
-      "__WM_SUSPECT_KEY__": 548112669,
-      "__WM_XPATH_ENTRY_KEY__": 548118893
-    }
+    ]
   },
   "original": null,
   "datasource": {
